@@ -11,6 +11,7 @@ Naive 104 Labour Bank Filter (Expeience of work)
 ### byHand.js
 - Copys text.
 - Need to open an empty file (e.g. JOB.csv) in advance and paste the copied text.
+- It copies ONLY CURRENT PAGE.
 ### waitForDownload.js
 - Downloads .csv file with the name of a company.
 - Need to wait for download.
